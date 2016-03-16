@@ -12,6 +12,6 @@ see [My facebook](https://www.facebook.com/Kieu.lam.fabregas)
 - Gmail:kieutunglam@gmail.com
 
 ### [Picture] (http://imgur.com/kLUVQpJ)
-<img src="http://imgur.com/kLUVQpJ">
+<img src="http://i.imgur.com/kLUVQpJ.jpg">
 
 ----
